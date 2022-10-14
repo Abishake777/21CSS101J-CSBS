@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main() {
     double a, b, product;
+    printf("registor number-RA2211042010054\n");
     printf("Enter two numbers: ");
     scanf("%lf %lf", &a, &b);  
     product = a * b;   
