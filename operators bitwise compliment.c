@@ -2,6 +2,7 @@
 
 int main() {
 	int a = 5, b= 10, c;
-	c = ~a ;    
+	c = ~a ;
+	printf("registor number-RA2211042010054\n");	
 	printf("%d\n", c);
 }
