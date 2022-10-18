@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-  printf("RA2211042010005\n");
+  printf("Registor Number-RA2211042010054\n");
 float height,weight,bmi;
   printf("Enter the height (in metres) : ");
    scanf("%f", &height);
